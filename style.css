@@ -110,6 +110,9 @@ body {
         border-radius: 15px;
         box-shadow: 0 0 15px #1c232d;
     }
+        .section-left, .section-right {
+        font-size: 30px;
+    }
     
     
 } 
